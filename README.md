@@ -1,5 +1,5 @@
 
-# Hi, I'm Keroles Naeem Habib! 👋  
+# Hi, I'm Kirolos Naeim Habib! 👋  
 ### Full Stack Developer | Python | Django | MERN Stack
 
 Welcome to my GitHub profile! I'm a passionate full stack developer experienced in designing and building web applications from scratch using both front-end and back-end technologies. Here’s a bit about me and what I love working on:
