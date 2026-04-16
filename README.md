@@ -75,7 +75,7 @@ My focus is on **AWS, Kubernetes, Terraform, CI/CD, Docker, Python, Go, Node.js,
 ## 📫 Let’s Connect
 
 - Email: **Kirolos_Naeim@outlook.com**
-- LinkedIn: **linkedin.com/in/kirolos-naeim-208231227/**
+- LinkedIn: **https://linkedin.com/in/kirolos-naeim-208231227/**
 - Portfolio: **https://3d-portfolio-xi-lime.vercel.app/**
 - Portfolio: **https://harmonious-daffodil-6c0b94.netlify.app/**
 - GitLab: **https://gitlab.com/Kirolos-Naeim-group**
