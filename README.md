@@ -20,7 +20,7 @@
 - 🔧 DevOps Engineer focused on **automation, scalability, and reliability**
 - ☁️ Hands-on with **AWS, Kubernetes (EKS), Terraform, CI/CD**
 - ⚙️ Strong in **backend systems, APIs, and distributed architectures**
-- 🌍 Based in **Abu Dhabi, UAE** (Open to opportunities)
+- 🌍 Based in **UAE** 
 - 🚀 Passionate about building **cloud-native, production-grade systems**
 
 ---
